@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Books extends MY_Model {
 
-	// public $_table = 'books';
+	public $_table = 'books';
 	/*
 	if table name referent model class name
 	 */
